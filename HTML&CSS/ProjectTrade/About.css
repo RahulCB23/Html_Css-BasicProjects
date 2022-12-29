@@ -1,0 +1,25 @@
+body{
+    margin: 0px;
+}
+.home{
+    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0, 0, 0, 0.7)),url(Capture.JPG);
+    background-size: cover;
+    height: 100vh;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+#raul{
+ margin-right: 510px;
+ text-shadow: 2px 2px 5px rgb(255, 246, 246);
+ color: white;
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.abc{
+    color: white;
+    text-align: center;
+    font-size: x-large;
+    margin-top: 50px;
+    text-shadow: 2px 2px 5px rgb(255, 246, 246);
+}

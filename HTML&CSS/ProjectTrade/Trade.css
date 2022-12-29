@@ -1,0 +1,70 @@
+body{
+    margin: 0px;
+}
+.home{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(Capture.JPG);
+    background-size: cover;
+    height: 100vh;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+#raul{
+ margin-right: 870px;
+ color: white;
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.button{
+    display: flex;
+}
+#id1{
+    color: white;
+    margin-right: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    opacity: 0.7;
+}
+#id2{
+    color: white;
+    margin-right: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    opacity: 0.7;
+}
+.content{
+    color: white;
+    text-align: center;
+    margin-top: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    opacity: 0.85;
+    text-shadow: 5px 5px 8px #3bd0eaa8;
+}
+#button1{
+    border: 1px solid white;
+    background-color: rgb(16, 130, 148);
+    color: white;
+    padding: 10px 25px;
+    border-top-right-radius:2px ;
+    border-bottom-right-radius: 2px;
+    opacity: 0.8;
+    margin-left: 500px;
+    margin-top: 5px;
+    box-shadow: 5px 5px 10px 2px rgba(0,0,0,.8);
+ }
+ #button2{
+    border: 1px solid white;
+    background-color: rgba(28, 121, 179, 0.215);
+    color: white;
+    padding: 10px 25px;
+    border-top-right-radius:2px ;
+    border-bottom-right-radius: 2px;
+    margin-left: 10px;
+    box-shadow: 5px 5px 10px 2px rgba(0,0,0,.8);
+ }
+ #bot{
+    color: rgba(255, 255, 255, 0.237);
+    text-shadow: 5px 5px 8px #7e80815a;
+    margin-top: 20px;
+    padding-bottom: 0px;
+
+ }
+
